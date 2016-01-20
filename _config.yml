@@ -1,0 +1,28 @@
+name: gabepeters
+favicon: null
+layout_spectrum: 0.8112607731018215
+typography_spectrum: 0.03207339788787067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.035112950252369046
+  lightness: 0.5826400390360504
+  saturation: 0.3409485148731619
+  rhythmicContrast: 0.20261024869978428
+purpose: []
