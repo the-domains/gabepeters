@@ -1,5 +1,8 @@
+name: gabepeters
+favicon: null
+layout_spectrum: 0.00511
+typography_spectrum: 0.03207339788787067
 title: 'Gabe Peters | Philantropist, Sports Fanatic, Guy with a Beard'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72104801-3
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3409485148731619
-  lightness: 0.5826400390360504
-  brandStrength: 0.2164339
   brandColors:
     - '#202E31'
     - '#BDACA3'
     - '#424A66'
     - '#86819B'
     - '#E08865'
+  brandStrength: 0.2164339
+  lightness: 0.5826400390360504
+  saturation: 0.3409485148731619
   rhythmicContrast: 0.2026102486997843
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-72104801-3
-  facebook: null
-favicon: null
-name: gabepeters
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.03207339788787067
-layout_spectrum: 1
+purpose: []
