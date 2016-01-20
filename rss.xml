@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gabe Peters | Philantropist, Sports Fanatic, Guy with a Beard]]></title>
+        <description><![CDATA[Gabe Peters | Philantropist, Sports Fanatic, Guy with a Beard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 18:04:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Type of Web]]></title>
+            <description><![CDATA[<h1>A New Type of Web</h1>]]></description>
+            <link>undefineda-new-type-of-web/index.html</link>
+            <guid isPermaLink="false">1ec720d1-d992-4637-b6d9-6a6ff5163d4a</guid>
+            <pubDate>Wed, 20 Jan 2016 18:04:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
